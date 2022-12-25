@@ -28,9 +28,7 @@ __Huazhong University of Science and Technology__
 
 ## Publications
 
-A list is also available [online](https://scholar.google.com/citations?user=LM6O83QAAAAJ&hl=zh-CN) 
 
-<!-- `2022` -->
 [1](https://link.springer.com/article/10.1007/s00158-022-03216-x) __J. Yi__, Y. Cheng, J. Liu. “SBSC+ SRU: an error-guided adaptive Kriging method for expensive system reliability analysis ,” Structural and Multidisciplinary Optimization, 65(5):1-18, 2022 
 
 [2](https://www.sciencedirect.com/science/article/pii/S0951832021007250) __J. Yi__, Y. Cheng, J. Liu. “A novel fidelity selection strategy-guided multi-fidelity kriging algorithm for structural reliability analysis ,” Reliability Engineering & System Safety, 219, 108247, 2022.
@@ -40,8 +38,11 @@ A list is also available [online](https://scholar.google.com/citations?user=LM6O
 [4](https://link.springer.com/article/10.1007/s00158-020-02678-1) __J. Yi__, F. Wu, Y. Cheng, et al. “An active-learning method based on multi-fidelity Kriging model for structural reliability analysis ,” Structural and Multidisciplinary Optimization, 63(1):173-195, 2021.  
 
 [5](https://link.springer.com/article/10.1007/s00158-020-02622-3) __J. Yi__, Q, Zhou, Y. Cheng, et al. “Efficient adaptive Kriging-based reliability analysis combining new learning function and error-based stopping criterion,” Structural and Multidisciplinary Optimization, 62(5):2517-2536, 2020 
-[6](https://link.springer.com/article/10.1007/s00366-020-01043-6)
- J. Liu, __J. Yi__, Q, Zhou, et al. “A sequential multi-fidelity surrogate model-assisted contour prediction method for engineering problems with expensive simulations,” Engineering with Computers, 2020. 
+
+[6](https://link.springer.com/article/10.1007/s00366-020-01043-6) J. Liu, __J. Yi__, Q, Zhou, et al. “A sequential multi-fidelity surrogate model-assisted contour prediction method for engineering problems with expensive simulations,” Engineering with Computers, 2020. 
+
+[A list is also available online](https://scholar.google.com/citations?user=LM6O83QAAAAJ&hl=zh-CN) 
+
 
 ## Presentations
 
