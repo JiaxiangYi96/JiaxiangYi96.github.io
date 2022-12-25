@@ -8,10 +8,10 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Jiaxiang Yi
   avatar: Jiaxiang.jpg
-  bio: "You can do all things"
+  bio: "PhD candidate at 3ME-MSE TUdelft"
   email: J.Yi@tudelft.nl
   # Do not include the @ symbol in your Twitter username
-  twitter: yagafighting
+  # twitter: yagafighting
   linkedin: Jiaxiang Yi
   github: JiaxiangYi96
   # orcid: # ID Number (ex. 0000-0000-0000-0000)
