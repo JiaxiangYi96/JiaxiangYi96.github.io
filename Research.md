@@ -28,6 +28,10 @@ excerpt: "Research"
 
 [[2]](https://ieeexplore.ieee.org/abstract/document/8778853) __J. Yi__,  Y. Cheng., & J. Liu. (2018, December). A fast forecast method based on high and low fidelity surrogate models for strength and stability of stiffened cylindrical shell with variable ribs. In 2018 IEEE 8th International Conference on Underwater System Technology: Theory and Applications (USYS) (pp. 1-6). IEEE.
 
+[[3]](https://openreview.net/forum?id=511z1DGjPi) __J.Yi__, M. Bessa. rvesimulator: An automated representative volume element simulator for data-driven material discovery.  AI for Accelerated Materials Design - NeurIPS 2023 Workshop. New Orleans, Louisiana, United States. 
+
+
 ## Peer Review 
 `Feb. 2021 - Present ` 
 - __Reliability Engineering and System Safety__ 
+- __Applied Soft Computing__
