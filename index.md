@@ -10,8 +10,9 @@ I am a PhD candidate at Department of Material Science and Engineering,  TU Delf
 __Delft University of Technology__
 PhD candidate at [ME-MSE](https://www.tudelft.nl/3me/over/afdelingen/materials-science-and-engineering), TU Delft.
 - __Promotor__: Marcel Sluiter
+- __Copromotor__:Baris Caglar
 - __Daily Supervisor__ : Miguel Bessa 
-- __Research interests__:  Probability machine learning, Multi-fidelity methods, Multi-scale simulation
+- __Research interests__: Bayesian deep learning, Uncertainty quantification, Multi-fidelity modeling, Finite Element Simulation
 
 `Sep. 2018 - Jun. 2021`
 __Huazhong University of Science and Technology__
@@ -26,7 +27,8 @@ __Huazhong University of Science and Technology__
 - Bachelor;s thesis: *Strength and stability prediction for cylindrical shell with variable ribs via multi-fidelity surrogate model*  
 
 ## Current Interests and Projects: 
-1. Probability machine learning 
-2. Multi-fidelity methods
-3. Multi-scale simulation 
-4. [GitHub Pages](http://JiaxiangYi96.github.io)
+1. Bayesian deep learning 
+2. Uncertainty quantification
+3. Multi-fidelity modeling
+4. Finite element simulation
+

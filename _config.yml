@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Academic Website of Jiaxiang Yi
+title: Website of Jiaxiang Yi
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Jiaxiang Yi
   avatar: Jiaxiang.jpg
-  bio: "PhD candidate at 3ME-MSE TUdelft"
+  bio: "PhD candidate at ME-MSE TUdelft"
   email: J.Yi@tudelft.nl
   # Do not include the @ symbol in your Twitter username
   # twitter: yagafighting
