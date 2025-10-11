@@ -9,7 +9,7 @@ date: 2024-07-21
 venue: "arXiv preprint"
 paperurl: "https://arxiv.org/abs/2407.15110"
 bibtexurl: "https://arxiv.org/bibtex/2407.15110"
-citation: "Yi, J., Cheng, J., & Bessa, M. (2024). “Practical multi-fidelity machine learning: fusion of deterministic and Bayesian models.” *arXiv preprint arXiv:2407.15110*."
+citation: "Yi, J., Cheng, J., & Bessa, M. (2024). “Practical multi-fidelity machine learning: fusion of deterministic and Bayesian models.” arXiv preprint arXiv:2407.15110."
 
 ---
 

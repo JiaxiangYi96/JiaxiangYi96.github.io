@@ -1,14 +1,14 @@
 ---
 title: "Cooperative Bayesian and Variance Networks Disentangle Aleatoric and Epistemic Uncertainties"
 collection: publications
-category: manuscripts
+category: conference
 permalink: /publication/2025-05-XX-cooperative-bayesian-variance-networks
 excerpt: "A simple yet effective cooperative training strategy that integrates a Variance estimation network with a Bayesian neural network, achieving accurate mean prediction while disentangling aleatoric and epistemic uncertainties."
 date: 2025-05-05
 venue: "arXiv preprint"
 paperurl: "https://arxiv.org/abs/2505.02743"
 bibtexurl: "https://arxiv.org/bibtex/2505.02743"
-citation: "Yi, J. & Bessa, M. (2025). “Cooperative Bayesian and Variance Networks Disentangle Aleatoric and Epistemic Uncertainties.” *arXiv preprint arXiv:2505.02743*."
+citation: "Yi, J. & Bessa, M. (2025). “Cooperative Bayesian and Variance Networks Disentangle Aleatoric and Epistemic Uncertainties.” arXiv preprint arXiv:2505.02743."
 ---
 
 ---
