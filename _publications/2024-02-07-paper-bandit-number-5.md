@@ -1,7 +1,7 @@
 ---
 title: "Hierarchize Pareto Dominance in Multi-Objective Stochastic Linear Bandits"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2024-02-hierarchize-pareto-dominance
 excerpt: "This paper introduces mixed Pareto-lexicographic orders for multi-objective stochastic linear bandits, allowing algorithms to capture both Pareto and lexicographic preferences via the Grossone methodology."
 date: 2024-02-27
