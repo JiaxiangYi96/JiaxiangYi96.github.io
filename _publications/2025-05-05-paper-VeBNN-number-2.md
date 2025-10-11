@@ -1,7 +1,7 @@
 ---
 title: "Cooperative Bayesian and Variance Networks Disentangle Aleatoric and Epistemic Uncertainties"
 collection: publications
-category: conference
+category: manuscripts
 permalink: /publication/2025-05-XX-cooperative-bayesian-variance-networks
 excerpt: "A simple yet effective cooperative training strategy that integrates a Variance estimation network with a Bayesian neural network, achieving accurate mean prediction while disentangling aleatoric and epistemic uncertainties."
 date: 2025-05-05

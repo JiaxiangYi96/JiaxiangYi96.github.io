@@ -7,6 +7,7 @@ excerpt: "This paper introduces mixed Pareto-lexicographic orders for multi-obje
 date: 2024-02-27
 venue: "Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)"
 paperurl: "https://ojs.aaai.org/index.php/AAAI/article/view/29030"
+bibtexurl: "https://research.tudelft.nl/en/publications/hierarchize-pareto-dominance-in-multi-objective-stochastic-linear"
 citation: "Cheng, J., Xue, B., Yi, J., & Zhang, Q. (2024). “Hierarchize Pareto Dominance in Multi-Objective Stochastic Linear Bandits.” *Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)*, pp. 11489–11497."
 ---
 
