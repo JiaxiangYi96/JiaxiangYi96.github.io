@@ -24,6 +24,33 @@ Applications to Ship Structural Design](https://www.cnki.net/KCMS/detail/detail.
 * B.S. in Naval Architecture and Ocean Engineering, Huazhong University of Science and Technology, 2018.06
   - GPA: 3.81/4.0
 
+
+
+<!-- | Year | Award | Institution |
+|------|--------|--------------|
+| 2021 | Outstanding Master Graduate | HUST |
+| 2020 | National Scholarship for Postgraduates | HUST |
+| 2020 | Merit Master Student | HUST |
+| 2018 | Outstanding Graduate | HUST |
+| 2017 | Merit Undergraduate Student | HUST |
+| 2017 | National Encouragement Scholarship | HUST |
+| 2016 | National Encouragement Scholarship | HUST |
+| 2016 | Excellent Student Cadre | HUST |
+ -->
+ 
+Selected Awards
+======
+<ul class="awards-list">
+  <li><span class="year-tag">2021</span> Outstanding Master Graduate, <b>HUST</b></li>
+  <li><span class="year-tag">2020</span> National Scholarship for Postgraduates, <b>HUST</b></li>
+  <li><span class="year-tag">2020</span> Merit Master Student, <b>HUST</b></li>
+  <li><span class="year-tag">2018</span> Outstanding Graduate, <b>HUST</b></li>
+  <li><span class="year-tag">2017</span> Merit Undergraduate Student, <b>HUST</b></li>
+  <li><span class="year-tag">2017</span> National Encouragement Scholarship, <b>HUST</b></li>
+  <li><span class="year-tag">2016</span> National Encouragement Scholarship, <b>HUST</b></li>
+  <li><span class="year-tag">2016</span> Excellent Student Cadre, <b>HUST</b></li>
+</ul>
+
 <!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -41,28 +68,8 @@ Applications to Ship Structural Design](https://www.cnki.net/KCMS/detail/detail.
   * Duties included: Tagging issues
   * Supervisor: Professor Git
    -->
-Skills
-======
-* **Coding**
-  * Python
-  * Matlab
-  * C, C++
-  * FORTRAN
-  * Git
-  * Latex
-  * ...
-* **Software**
-  * AutoCAD
-  * ABAQUS
-  * ANSYS
-  * ParaView
-  * ...
 
-* **Tools**
-  * MS Office
-  * Origin
-  * Inkscape
-  * ...
+
 
 Publications
 ======
@@ -81,10 +88,21 @@ Talks
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  
+
+
+Skills
+======
+* **Coding**
+Python, Matlab, C, C++ , FORTRAN, Git, Latex, ...
+
+* **Software**
+AutoCAD, ABAQUS, ANSYS, ParaView, ...
+
+* **Tools**
+MS Office, Origin, Inkscape, ...
+
 Miscellaneous Experience
 ======
-**Reviewer for:**  
 **Reviewer for:**  
 [*Reliability Engineering & System Safety*](https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety),  
 [*Computer Methods in Applied Mechanics and Engineering*](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering),  
