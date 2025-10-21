@@ -14,13 +14,14 @@ Education
 * Ph.D in Mechanical Engineering,  Delft University of Technology, 2026.01 (Planed, On time)
   - Research Interests: Uncertainty Quantification, Bayesian deep learning, Multi-fidelity modeling, Computational mechanics.
   - Advisors: [Miguel A. Bessa](https://vivo.brown.edu/display/mbessa),  [Marcel H.F. Sluiter](https://www.tudelft.nl/staff/m.h.f.sluiter/), and [Baris Caglar](https://www.tudelft.nl/en/staff/b.caglar/).
-  - GPA: 3.90/4.00
+  
 * M.S. in Design and Construction of Naval Architecture and Ocean Structure, Huazhong University of Science and Technology,  2021.06 
   - Research Interests: Data-driven structure reliability analysis, Bayesian optimization.
   - Dissertation: [Improved Sequential Kriging-Monte Carlo
 Simulation Reliability Analysis Methods and Their
 Applications to Ship Structural Design](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202301&filename=1021906307.nh&uniplatform=OVERSEA&v=VZdhFXlVECKUV7yuQ7LGxrhw5S_6T2HOrzwl39VSs0cfkVN1kOfxDk7ixYymObLB)
   - Advisors: Jun Liu and Yuansheng Cheng.
+  - GPA: 3.90/4.00
 * B.S. in Naval Architecture and Ocean Engineering, Huazhong University of Science and Technology, 2018.06
   - GPA: 3.81/4.0
 
